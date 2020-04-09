@@ -1,0 +1,18 @@
+table, td {
+    border: 1px solid black;
+}
+
+td {
+    padding: 5px;
+    background-color:  white;
+    margin: 0;
+}
+
+table {
+  background-color:  #d2cfcf;
+}
+
+.search-bar-input, .search-button, .refresh-button {
+    display: block;
+    margin: 10px;
+}
